@@ -1,0 +1,35 @@
+a {
+  text-decoration: none;
+}
+
+.content {
+  margin-top: 5%;
+  margin-left: 5%;
+}
+
+.lizard {
+  font-size: 5rem;
+}
+.hi {
+  font-size: 3rem;
+}
+
+.works {
+  margin-left: 1em;
+  margin-top: 1em;
+  font-size: 1.5rem;
+}
+
+.work {
+  width: 50%;
+  padding: 0.1em 1em;
+  background-color: snow;
+  border-radius: 5px;
+}
+.work .title {
+  font-size: 1.5rem;
+}
+.work .desc {
+  font-size: 1.3rem;
+  padding-left: 0.5em;
+}
